@@ -1,0 +1,14 @@
+ {
+    "name": "k_id.k_theme",
+    "title": "K_THEME",
+    "description": "This is a personnal theme for Brackets",
+    "homepage": "https://github.com/k-id/brackets.k_theme",
+    "version": "1.0.0",
+    "author": "K_ID <louisviot@gmail.com> (http://)",
+    "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme, dark, color, colorfull, simple, brackets"]
+}
